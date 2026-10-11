@@ -8,4 +8,5 @@ Youtube канал: https://www.youtube.com/@CleanLoadsofficial-h9f
 файл установщика: CleanLoads_Setup.exe 
 лицензия: Apache 2.0 
 
-следите за YouTube каналом и ставьте звезды на Github
+следите за YouTube каналом и ставьте звезды на Github и пишите в Issues
+
